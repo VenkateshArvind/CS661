@@ -1,6 +1,6 @@
 # India's Changing Climate: Analytical Dashboard
 
-An interactive geospatial web dashboard built with Plotly Dash to analyze and visualize climate patterns across India using ERA5-Land NetCDF datasets. The app covers everything from monsoon wind directions to soil moisture feedback loops.
+An interactive geospatial climate dashboard built with Plotly Dash for analyzing and visualizing climate patterns across India using ERA5-Land NetCDF datasets. The application provides spatial and temporal analysis of key climate variables, including temperature, precipitation, wind, radiation, soil water, vegetation, snow, lakes, evaporation, and runoff. It supports analysis at the India-wide, state-wise, and custom user-defined regional levels, enabling users to explore localized climate behavior and relationships between different environmental variables. The dashboard also incorporates interactive maps, animated visualizations, wind-vector analysis, and correlation-based plots to investigate climate patterns and feedback mechanisms such as the relationship between soil moisture, energy balance, and atmospheric conditions.
 
 ## Features
 
